@@ -1,2 +1,2 @@
-*It prints basic information about the operating system and system hardware*
-
+#!/bin/bash
+["Linux"]
